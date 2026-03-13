@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/Dynamic%20Pipeline%20fabric/sales.csv",
+        "sink_folder" : "data_sales",
+        "sink_file" : "sales.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/Dynamic%20Pipeline%20fabric/payments.csv",
+        "sink_folder" : "data_payments",
+        "sink_file" : "payments.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/Dynamic%20Pipeline%20fabric/orders.csv",
+        "sink_folder" : "data_orders",
+        "sink_file" : "orders.csv"
+
+    }
+]
